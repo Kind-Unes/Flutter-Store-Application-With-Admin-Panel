@@ -147,7 +147,7 @@
 <p align="center">
 </p>
 
-# **Agencies Application**
+# **Admin Panel Application**
 
 <p align="center">
 
