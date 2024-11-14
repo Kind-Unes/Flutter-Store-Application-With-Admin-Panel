@@ -45,7 +45,7 @@
         <img width="320" alt="APP Logo" src="./assets/logo.png">
       </td>
       <td align="center" width="50%">
-        <h2>Availble Now on Apple store </h2>
+        <h2>Available Now on Apple store </h2>
         <p>(Launching Soon GooglePlay/Huawie )</p>
        <p align="center">
           <a href="https://apps.apple.com/kw/app/alatar/id6504457316"     target="_blank">
