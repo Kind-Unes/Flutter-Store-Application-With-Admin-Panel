@@ -46,14 +46,14 @@
       </td>
       <td align="center" width="50%">
         <h2>Available Now on Apple store </h2>
-        <p>(Launching Soon GooglePlay/Huawie )</p>
+        <p>DOWNLOAD NOW</p>
        <p align="center">
           <a href="https://apps.apple.com/kw/app/alatar/id6504457316"     target="_blank">
             <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Available on the Apple Store" width="150"/>
           </a>
-          <!-- <a href="https://play.google.com/store/apps/details?id=com.example" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=com.hellaletYounes.atar" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Available on Google Play" width="150"/>
-          </a> -->
+          </a> 
        </p>
       </td>
     </tr>
